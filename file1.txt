@@ -1,1 +1,2 @@
 new text
+-- this is new line for checking how to work git
